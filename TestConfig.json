@@ -1,13 +1,13 @@
 {
-    "testName": "Пробный тест", //Название теста
-    "environmentId": 2, //Индекс нужного окружения
+    "testName": "Пробный тест",
+    "environmentId": 2,
     "questions": [
         {
-            "questionText": "Первый вопрос", // Вопрос
-            "imageUrl": "", // Ссылка на картинку
-            "correctAnswerIndex": 1,    //Индекс правильного ответа
+            "questionText": "Первый вопрос",
+            "imageUrl": "",
+            "correctAnswerIndex": 1,   
             "answers": [
-                {"answerText": "Ответ 0"},  //Ответы
+                {"answerText": "Ответ 0"},
                 {"answerText": "Ответ 1 (правильный)"},
                 {"answerText": "Ответ 2"},
                 {"answerText": "Ответ 3"}
