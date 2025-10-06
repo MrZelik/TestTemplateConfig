@@ -1,10 +1,10 @@
 {
     "testName": "Пробный тест",
-    "environmentId": 2,
+    "environmentId": 0,
     "questions": [
         {
             "questionText": "Первый вопрос",
-            "imageUrl": "",
+            "imageUrl": "https://avatars.mds.yandex.net/i?id=c427c82d5cd989fd178f62e04fc8807e_l-12720126-images-thumbs&n=13",
             "correctAnswerIndex": 1,   
             "answers": [
                 {"answerText": "Ответ 0"},
