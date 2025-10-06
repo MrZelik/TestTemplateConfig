@@ -1,0 +1,39 @@
+{
+    "testName": "Пробный тест", //Название теста
+    "environmentId": 2, //Индекс нужного окружения
+    "questions": [
+        {
+            "questionText": "Первый вопрос", // Вопрос
+            "imageUrl": "", // Ссылка на картинку
+            "correctAnswerIndex": 1,    //Индекс правильного ответа
+            "answers": [
+                {"answerText": "Ответ 0"},  //Ответы
+                {"answerText": "Ответ 1 (правильный)"},
+                {"answerText": "Ответ 2"},
+                {"answerText": "Ответ 3"}
+            ]
+        },
+        {
+            "questionText": "Второй вопрос",    
+            "imageUrl": "",
+            "correctAnswerIndex": 0,
+            "answers": [
+                {"answerText": "Ответ 0 (правильный)"},
+                {"answerText": "Ответ 1"},
+                {"answerText": "Ответ 2"},
+                {"answerText": "Ответ 3"}
+            ]
+        },
+        {
+            "questionText": "Третий вопрос",
+            "imageUrl": "https://avatars.mds.yandex.net/i?id=89fccc871bad5608f797fe15b6e340258c95584e-16433653-images-thumbs&n=13",
+            "correctAnswerIndex": 2,
+            "answers": [
+                {"answerText": "Ответ 0"},
+                {"answerText": "Ответ 1"},
+                {"answerText": "Ответ 2 (правильный)"},
+                {"answerText": "Ответ 3"}
+            ]
+        }
+    ]
+}
